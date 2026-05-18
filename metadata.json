@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AIZA",
+  "description": "A high-quality interactive emotional adventure game for children aged 5-10, combining exploration, mini-games, and mental health support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
